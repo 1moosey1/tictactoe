@@ -1,0 +1,62 @@
+html, body {
+  background-color: #C3CCCC;
+}
+
+header {
+  
+  color: #191919;
+  text-align: center;
+  margin: 30px 0 60px 0;
+}
+
+table {
+  
+  table-layout: fixed;
+  margin: auto;
+  
+  box-shadow: 0px 0px 18px 4px #888888;
+  vertical-align: middle;
+  text-align: center;
+}
+
+td {
+  
+  border: 2px solid #191919;
+  width: 20vh;
+  height: 20vh;
+  
+  background-color: #859595;
+  color: #191919;
+  font-family: 'Andika';
+  font-size: 5em;
+}
+
+footer {
+  
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 25px;
+}
+
+.hover {
+  background-color: #A9B4B4;
+}
+
+#msgdisplay {
+  
+  display: none;
+  position: absolute;
+  
+  top: 10px;
+  right: 10px;
+  text-align: center;
+}
+
+#selection {
+  display: none;
+}
+
+#board {
+  display: none;
+}
