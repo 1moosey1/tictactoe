@@ -13,7 +13,7 @@ Opponent is the computer (alpha-beta prune)
 - The goal was not to make a beatable computer but to practice with unfamiliar algorithms
 
 Technologies:
-HTML, CSS, JavaScript, jQuery
+HTML, CSS/Bootstrap, JavaScript/jQuery
 
 Github Project Site
 https://1moosey1.github.io/tictactoe/
